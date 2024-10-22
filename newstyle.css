@@ -1,0 +1,66 @@
+@media only screen and (max-width: 600px) {
+    h3 {
+        font-size: 22px;
+        padding-left: 10px ;
+    }
+    li {
+        margin-right: 14px;
+        line-height: 25px;
+    }
+    .buttons1 {
+        padding-left: 6px ;
+        gap: 7px;
+    }
+    .button1 {
+        font-size: 13px;
+    }
+    .button2 {
+        gap: 10px;
+        padding: 10px 30px;   
+        font-size: 12px;
+    }
+    .SecondPartOfHeader{
+        max-width: 500px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    .div1InSection1 h3{
+        padding-left: 0px !important;
+    }
+    .div2InSection1 {
+        flex-direction: column; 
+        gap: 2px;
+        align-items: center;
+    }
+    .section1 {
+        gap: 10%;
+        justify-content: center;
+        padding-top: 50px;
+    }
+    .divOfTeacher {
+        margin-top: 30%;
+    }
+    .divFooter0 {
+        flex-direction: column;
+        gap: 20px; 
+        text-align: center; 
+    }
+    .divFooter {
+        flex-direction: column;
+        gap: 30px; 
+        align-items: center;
+    }
+    .divFooter2 {
+        flex-direction: column; 
+        gap: 2px;
+        text-align: center;
+    }
+    .FbInstaTw2 {
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+    .imgLink {
+        padding-left: 25%;
+    }
+}
